@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov 16 20:38:20 2018
+
+@author: prabhudayala
+"""
+
+#naive bayes on amazon dataset
+scoreeesss
+tn,fp,fn,tp 8 240 16 1236
+tn,fp,fn,tp 34 699 12 755
+            137 630 31 702
+            
+            
+tfidfw2v
+            2 230 0 1268
+            2 230 1 1267
